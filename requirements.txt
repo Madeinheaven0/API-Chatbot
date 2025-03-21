@@ -1,6 +1,6 @@
 fastapi
 pydantic
 numpy
-faiss
+faiss-cpu
 transformers
 sentence-transformers
