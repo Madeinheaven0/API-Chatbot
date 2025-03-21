@@ -1,0 +1,6 @@
+fastapi
+pydantic
+numpy
+faiss
+transformers
+sentence-transformers
