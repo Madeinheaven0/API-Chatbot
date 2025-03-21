@@ -4,3 +4,4 @@ numpy
 faiss-cpu
 transformers
 sentence-transformers
+uvicorn[standard]
